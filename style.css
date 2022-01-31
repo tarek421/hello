@@ -1,0 +1,35 @@
+body{
+   background-color:rgba(0, 0, 0, 0.822);
+}
+
+.card{
+   background-color: white;
+   width:70%;
+   margin: auto;
+   padding: 20px 0;
+}
+h4{
+   margin: 0 10px;
+   padding: 5px;
+}
+
+span{
+   background-color:red;
+   padding: 5px;
+   margin: 0 30px 0px 10px;
+   border-radius: 5px;
+}
+
+.last-child{
+   display: flex;
+   justify-content: space-between;
+}
+
+.last-child span{
+   background:#353030;
+   color:#fff;
+   font-size:13px;
+   border-radius: 50%;
+   padding: 5px 10px;
+}
+
